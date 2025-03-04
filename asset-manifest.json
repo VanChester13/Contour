@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contour/static/css/main.ca57ceac.css",
+    "main.js": "/Contour/static/js/main.50eee4c9.js",
+    "index.html": "/Contour/index.html",
+    "main.ca57ceac.css.map": "/Contour/static/css/main.ca57ceac.css.map",
+    "main.50eee4c9.js.map": "/Contour/static/js/main.50eee4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57ceac.css",
+    "static/js/main.50eee4c9.js"
+  ]
+}
